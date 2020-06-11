@@ -1,0 +1,3 @@
+1. export database 'php_exam' to phpmyadmin/SQLyog
+2. open cmd ang locate document then type 'php artisan serve'
+it will open in "localhost:8000"
